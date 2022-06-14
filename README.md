@@ -26,4 +26,4 @@ Your app is ready to be deployed!
 
 # Screenshot
 
-![](Demo/screenshot1.png)
+![](demo/screenshot1.png)
