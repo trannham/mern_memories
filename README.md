@@ -1,6 +1,6 @@
 # Mern Memories - Full stack Application.
 
-This project is done with Mongo - Express - React - Node. This repo contains codes for the application front-end. To check the application back-end code, please visit this [repo](https://github.com/iamanh1990/charity-app-mern-backend).
+This project is done with Mongo - Express - React - Node.
 
 ## Available Scripts
 
@@ -25,4 +25,5 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 # Screenshot
-![](Demo/Screenshot.png)
+
+![](Demo/screenshot1.png)
